@@ -1,4 +1,4 @@
 # github-app-test
 Testing GitHub App
 
-Some bogus changes.  And some more.
+Some bogus changes.
