@@ -1,4 +1,4 @@
 # github-app-test
 Testing GitHub App
 
-Another test
+Trigger test
